@@ -1,0 +1,21 @@
+{
+    "tech": [
+        "Software Engineer",
+        "Data Scientist",
+        "Product Manager",
+        "UX Designer",
+        "DevOps Engineer"
+    ],
+    "business": [
+        "Business Analyst",
+        "Financial Analyst",
+        "Management Consultant",
+        "Marketing Specialist"
+    ],
+    "healthcare": [
+        "Nurse",
+        "Physician Assistant",
+        "Health Informatics",
+        "Healthcare Administrator"
+    ]
+}

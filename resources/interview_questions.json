@@ -1,0 +1,28 @@
+{
+    "common_questions": [
+        "Tell me about yourself",
+        "Why are you interested in this position?",
+        "What are your strengths and weaknesses?",
+        "Describe a challenge you faced and how you overcame it",
+        "Where do you see yourself in 5 years?",
+        "Why should we hire you?"
+    ],
+    "technical_topics": {
+        "programming": [
+            "Data structures",
+            "Algorithms",
+            "System design",
+            "Problem-solving process"
+        ],
+        "project_management": [
+            "Risk management",
+            "Agile methodologies",
+            "Stakeholder communication"
+        ],
+        "marketing": [
+            "Campaign analytics",
+            "SEO knowledge",
+            "Social media strategy"
+        ]
+    }
+}
